@@ -1,0 +1,15 @@
+5.6.1f1:2.8.2.0
+StandaloneWindows
+Y:/Unity/UnityInstall/Editor/Data/Managed/UnityEngine.dll
+Y:/Unity/UnityInstall/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+Y:/Unity/UnityInstall/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Y:/Unity/UnityInstall/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+Y:/Unity/UnityInstall/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+Y:/Unity/UnityInstall/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+Y:/Unity/UnityInstall/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+Y:/Unity/UnityInstall/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+Y:/Unity/UnityInstall/Editor/Data/Managed/UnityEditor.dll
+Y:/Unity/UnityInstall/Editor/Data/Managed/Mono.Cecil.dll
+Y:/Unity/UnityInstall/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll
+Y:/Unity/UnityInstall/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll
+Y:/Unity/UnityInstall/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll
